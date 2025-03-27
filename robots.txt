@@ -1,2 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
 User-agent: *
-Disallow:
+Allow: /
+
+Sitemap: https://m4ster-s3lot.github.io/rahasia-cuan-setiap-jam-ungkap-rahasia-bikin-kemenangan-beruntun-wild-bandito-pegesop/sitemap.xml
